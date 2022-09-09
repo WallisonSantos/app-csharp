@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "YAxEhAyK1/xyelnu29DhHmGWVg+66B6DmCI58mZkcit+3wFdWvxInhIsQB6fJ87Bb9xB2zDTnLGZDtEH0aUaNg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\walli\\OneDrive\\Área de Trabalho\\app-csharp\\TodoApi\\TodoApi.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\walli\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\walli\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\walli\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\walli\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\walli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\walli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "f31p8WmAhKIbw6ZUFFbgnr5EUOpeS/F4l9SuC11GF0sZh6oyePxCQvCLFuAiY3ANZQ0EBIsnXAqYrlSQBpMBJA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\wallison-santos\\Documents\\GitHub\\app-csharp\\TodoApi\\TodoApi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    }
+  ]
 }
